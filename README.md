@@ -15,7 +15,7 @@ This is the main page for Horiseon Social Solution Services, Inc. This page has 
 Basic links to information for service provided.
 
 ## Support
-N/A
+Support form W# schools.com, and Chatgpt
 
 ## Roadmap
 Never iterations should be for smaller screens such as phone application. 
